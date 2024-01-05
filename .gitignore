@@ -43,3 +43,6 @@ terraform.rc
 **/ansible/logs/ansible.log
 
 **/inspec.lock
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/terraform-aws.iml
