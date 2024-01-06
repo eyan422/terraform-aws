@@ -1,0 +1,50 @@
+AWS Simple VPC + EC2 Instance
+
+VPC spanning two avaliablity zones
+
+two public subnets
+
+internet gateway
+
+route table
+
+T3.micro instance + Nginx
+
+Security Groups
+
+
+
+
+https://github.com/eyan422/terraform-aws
+
+excercise 1
+
+export TF_VAR_workstation_ip=119.74.111.38/32
+export TF_VAR_key_name=your_ssh_key_name
+
+
+Access Key:
+AKIATX62C52BIQ5N3NNZ
+
+Secret access key:
+vThU/5bJHO34t+fxxoA4D8eSc72cH+gwbI2Niz+8
+
+
+export AWS_ACCESS_KEY=AKIATX62C52BIQ5N3NNZ
+
+export AWS_SECRET_ACCESS_KEY=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
+
+Verification:
+curl -i url
+
+
+excercise 2
+VPC+ALB+EC2
+
+vpc spanning two AZ having both of public and private subnets
+
+internet gateway and nat gateway
+
+route tables
+
+ALB
