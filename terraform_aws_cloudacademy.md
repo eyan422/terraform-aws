@@ -24,10 +24,10 @@ export TF_VAR_key_name=your_ssh_key_name
 
 
 Access Key:
-AKIATX62C52BIQ5N3NNZ
+xxx
 
 Secret access key:
-vThU/5bJHO34t+fxxoA4D8eSc72cH+gwbI2Niz+8
+xxx
 
 
 export AWS_ACCESS_KEY=xxx
