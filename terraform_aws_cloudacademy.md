@@ -30,7 +30,7 @@ Secret access key:
 vThU/5bJHO34t+fxxoA4D8eSc72cH+gwbI2Niz+8
 
 
-export AWS_ACCESS_KEY=AKIATX62C52BIQ5N3NNZ
+export AWS_ACCESS_KEY=xxx
 
 export AWS_SECRET_ACCESS_KEY=xxx
 
