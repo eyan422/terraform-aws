@@ -32,7 +32,7 @@ vThU/5bJHO34t+fxxoA4D8eSc72cH+gwbI2Niz+8
 
 export AWS_ACCESS_KEY=AKIATX62C52BIQ5N3NNZ
 
-export AWS_SECRET_ACCESS_KEY=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
+export AWS_SECRET_ACCESS_KEY=xxx
 
 Verification:
 curl -i url
